@@ -1,33 +1,42 @@
-Python_Data_Analysis
-Description:
-Data analysis project using Pandas focused on cancellation data. The notebook examines patterns, statistics, and possible insights from the provided dataset.
+# Python_Data_Analysis
 
-How to Run:
+## Description  
+Data analysis project using **Pandas** focused on cancellation data. The notebook explores patterns, statistics, and potential insights from the provided dataset.
 
-Install Python 3 and the required packages:
-pip install pandas matplotlib seaborn
+## How to Run  
+1. Install Python 3 and required packages:  
+   ```bash
+   pip install pandas matplotlib seaborn
+Open main.ipynb in a Jupyter environment (JupyterLab, Jupyter Notebook, Google Colab, etc.).
 
-Open the main.ipynb file in a Jupyter environment (JupyterLab/Notebook, Google Colab, etc.).
+Ensure cancelamentos.csv is in the same folder as the notebook.
 
-Make sure cancelamentos.csv is in the same folder as the notebook.
+Execute the notebook cells sequentially.
 
-Run the cells sequentially.
+Features
+Load and explore cancellation data.
 
-Features:
+Perform data cleaning (handle missing or inconsistent data).
 
-Loads and explores cancellation data.
+Calculate descriptive statistics (mean, median, dispersion, etc.).
 
-Performs data cleaning (handling missing or inconsistent data).
+Generate visualizations (bar charts, histograms, boxplots, etc.) to analyze key variables.
 
-Calculates descriptive statistics (mean, median, dispersion, etc.).
+Technologies
+Python
 
-Generates visualizations (bar charts, histograms, boxplots, etc.) to understand key variables.
+Pandas (data analysis)
 
-Technologies:
-Python, Pandas (data analysis), Matplotlib/Seaborn (data visualization).
+Matplotlib / Seaborn (data visualization)
 
-Learnings:
-DataFrame manipulation, exploratory data analysis, visualization techniques, and data interpretation.
+Learnings
+DataFrame manipulation
 
-Note:
-By default, it uses cancelamentos_sample.csv as an example since it requires less memory.
+Exploratory data analysis
+
+Visualization techniques
+
+Data interpretation
+
+Note
+By default, the project uses cancelamentos_sample.csv for demonstration, as it requires less memory.
