@@ -23,4 +23,4 @@ entender variáveis-chave.
 **Aprendizados:** Manipulação de DataFrames, análise exploratória, técnicas
 de visualização e interpretação de dados. 
 
-OBS: por padrão está utilizando 'cancelamento_sample.csv' como exemplo por usar menos memória.
+OBS: por padrão está utilizando 'cancelamentos_sample.csv' como exemplo por usar menos memória.
